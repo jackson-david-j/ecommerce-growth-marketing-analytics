@@ -112,3 +112,15 @@ Focuses on:
 - Review score by delivery-time group
 
 The dashboard includes page navigation, date slicers, KPI cards, and interactive cross-filtering between visuals.
+
+## Key Findings
+
+- Delivered product sales totaled **R$ 13.22 million** across **96,478 delivered orders**.
+- Average delivered product sales per order were approximately **R$ 137.04**.
+- Sales were geographically concentrated, with **São Paulo, Rio de Janeiro, and Minas Gerais** accounting for about **63.38%** of delivered product sales.
+- Only **3.00%** of customers with delivered orders placed more than one delivered order during the observed period.
+- Repeat customers accounted for approximately **5.51%** of delivered product sales.
+- The overall late delivery rate was **6.77%**.
+- Late deliveries were associated with substantially lower review scores, with late orders averaging **2.27** compared with **4.29** for non-late orders.
+- Health & Beauty was the highest-sales product category, generating approximately **R$ 1.23 million** in delivered product sales.
+- Office Furniture had a relatively low average review score of **3.64**, indicating a potential customer-experience issue worth further investigation.
