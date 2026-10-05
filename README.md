@@ -164,3 +164,32 @@ Potential areas to investigate:
 - Repeat-customer analysis is limited to the available observation period and should not be interpreted as lifetime retention.
 - Relationships between delivery performance and review scores are observational and do not prove causation.
 - Some delivered orders are missing actual delivery dates, and some orders contain multiple review records; these cases were handled carefully during analysis.
+
+## Project Outcome
+
+This project demonstrates an end-to-end business analytics workflow using Python, SQL, DAX, and Power BI.
+
+Key outputs include:
+
+- Cleaned and prepared 9-table e-commerce dataset
+- SQL analysis for 7 business questions
+- Validated Power BI data model
+- 14 DAX measures
+- Interactive multi-page Power BI dashboard
+- 5 evidence-based business insights
+- 3 business recommendations
+- Professional portfolio case study
+
+## Skills Demonstrated
+
+- Business problem framing
+- Data cleaning and validation
+- SQL analysis
+- Customer analytics
+- Sales analytics
+- Delivery performance analysis
+- Power BI data modeling
+- DAX measure development
+- Dashboard design
+- Business storytelling
+- Evidence-based recommendation development
