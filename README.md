@@ -154,3 +154,13 @@ Potential areas to investigate:
 - Assembly experience
 - Seller service
 - Delivery experience
+
+## Limitations
+
+- The dataset is historical, mainly covering 2016 to 2018, so the findings should not be treated as current market conditions.
+- This is a public-dataset portfolio project, not a paid client engagement.
+- Product sales are based on `order_items.price` and do not include freight.
+- Profitability cannot be determined because cost, margin, and operating-expense data are not available.
+- Repeat-customer analysis is limited to the available observation period and should not be interpreted as lifetime retention.
+- Relationships between delivery performance and review scores are observational and do not prove causation.
+- Some delivered orders are missing actual delivery dates, and some orders contain multiple review records; these cases were handled carefully during analysis.
