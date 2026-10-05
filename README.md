@@ -240,3 +240,7 @@ This dataset is used only for portfolio and learning purposes. The analysis shou
 ## Dashboard Preview
 
 Dashboard screenshots will be added here to showcase the final Power BI report design and key analytical pages.
+
+## Interactive Dashboard
+
+An interactive Power BI version of this dashboard will be added here after the final sharing method is selected and validated.
