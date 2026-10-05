@@ -27,3 +27,27 @@ This project was designed to answer seven business questions:
 5. How well are orders being delivered?
 6. What factors are associated with better or worse customer reviews?
 7. What actions could improve business growth and customer experience based on the available evidence?
+
+## Dataset
+
+This project uses the Olist Brazilian E-Commerce Public Dataset, which contains historical marketplace data mainly from 2016 to 2018.
+
+The analysis uses nine tables covering:
+
+- Customers
+- Orders
+- Order items
+- Payments
+- Reviews
+- Products
+- Sellers
+- Product category translation
+- Geolocation
+
+Key dataset considerations:
+
+- The dataset is historical and should not be treated as current market data.
+- Product sales are based on `order_items.price`.
+- Freight is not included in product sales.
+- Profitability cannot be determined because cost and margin data are not available.
+- Customer repeat behavior is measured only within the available observation period.
