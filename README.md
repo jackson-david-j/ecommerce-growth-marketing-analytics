@@ -193,3 +193,27 @@ Key outputs include:
 - Dashboard design
 - Business storytelling
 - Evidence-based recommendation development
+
+## Repository Structure
+
+```text
+ecommerce-growth-marketing-analytics/
+│
+├── README.md
+│
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   └── 02_SQL_Analysis.ipynb
+│
+├── powerbi/
+│   └── Ecommerce_Growth_Marketing_Analytics_Final.pbix
+│
+├── documentation/
+│   └── portfolio-case-study
+│
+└── images/
+    └── dashboard-previews
