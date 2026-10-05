@@ -236,3 +236,7 @@ The dataset includes information about:
 - Geographic information
 
 This dataset is used only for portfolio and learning purposes. The analysis should not be interpreted as current business performance.
+
+## Dashboard Preview
+
+Dashboard screenshots will be added here to showcase the final Power BI report design and key analytical pages.
