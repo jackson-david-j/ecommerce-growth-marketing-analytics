@@ -80,3 +80,35 @@ The project follows an end-to-end analytics workflow:
 8. Validate dashboard results against SQL analysis
 9. Identify business insights
 10. Develop evidence-based recommendations
+
+## Power BI Dashboard
+
+The final Power BI report contains three main analytical pages:
+
+### Executive Overview
+Provides a high-level view of:
+- Delivered product sales
+- Delivered orders
+- Average order value
+- Late delivery rate
+- Average review score
+- Repeat customer rate
+- Customer counts
+- Monthly sales trend
+
+### Sales & Geographic Analysis
+Focuses on:
+- Top product categories by delivered product sales
+- Top customer states by delivered product sales
+- Sales concentration across categories and regions
+
+### Delivery & Customer Experience
+Focuses on:
+- Late delivery rate
+- Delivery time
+- Customer review scores
+- Low-rating rate
+- Late delivery performance by state
+- Review score by delivery-time group
+
+The dashboard includes page navigation, date slicers, KPI cards, and interactive cross-filtering between visuals.
