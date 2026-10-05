@@ -65,3 +65,18 @@ Used to build the data model, create DAX measures, design the interactive dashbo
 
 ### DAX
 Used to create validated KPI measures for sales, orders, delivery performance, customer behavior, and review analysis.
+
+## Project Workflow
+
+The project follows an end-to-end analytics workflow:
+
+1. Define the business problem and business questions
+2. Clean and prepare the raw data using Python
+3. Analyze the cleaned data using SQL
+4. Import the cleaned tables into Power BI
+5. Build and validate the Power BI data model
+6. Create DAX measures for key business metrics
+7. Build the interactive dashboard
+8. Validate dashboard results against SQL analysis
+9. Identify business insights
+10. Develop evidence-based recommendations
