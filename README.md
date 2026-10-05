@@ -217,3 +217,22 @@ ecommerce-growth-marketing-analytics/
 │
 └── images/
     └── dashboard-previews
+```
+
+## Data Source
+
+This project uses the **Olist Brazilian E-Commerce Public Dataset**, a historical public dataset containing marketplace transactions mainly from 2016 to 2018.
+
+The dataset includes information about:
+
+- Orders
+- Customers
+- Products
+- Sellers
+- Payments
+- Reviews
+- Delivery
+- Product categories
+- Geographic information
+
+This dataset is used only for portfolio and learning purposes. The analysis should not be interpreted as current business performance.
