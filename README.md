@@ -124,3 +124,33 @@ The dashboard includes page navigation, date slicers, KPI cards, and interactive
 - Late deliveries were associated with substantially lower review scores, with late orders averaging **2.27** compared with **4.29** for non-late orders.
 - Health & Beauty was the highest-sales product category, generating approximately **R$ 1.23 million** in delivered product sales.
 - Office Furniture had a relatively low average review score of **3.64**, indicating a potential customer-experience issue worth further investigation.
+
+## Business Recommendations
+
+### 1. Investigate and reduce late deliveries
+Late orders had much lower average review scores than non-late orders. Delivery performance should be investigated by reviewing seller dispatch times, carrier performance, and regional delivery patterns.
+
+Key metrics to monitor:
+- Late delivery rate
+- Average days late
+- Average review score
+- Low-rating rate
+
+### 2. Investigate repeat purchasing
+Only 3.00% of customers with delivered orders placed more than one delivered order during the observed period.
+
+Potential next steps:
+- Analyze repeat purchasing by category
+- Survey first-time customers
+- Track second-order behavior within a defined time window
+- Identify categories with stronger repeat potential
+
+### 3. Investigate Office Furniture customer experience
+Office Furniture had a relatively low average review score.
+
+Potential areas to investigate:
+- Product condition
+- Packaging
+- Assembly experience
+- Seller service
+- Delivery experience
