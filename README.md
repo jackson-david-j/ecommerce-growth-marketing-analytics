@@ -244,3 +244,9 @@ Dashboard screenshots will be added here to showcase the final Power BI report d
 ## Interactive Dashboard
 
 An interactive Power BI version of this dashboard will be added here after the final sharing method is selected and validated.
+
+## Portfolio Note
+
+This project was created as an independent portfolio case study using a public historical dataset.
+
+It is not a paid client project, and no real-world business impact is claimed. The recommendations are based on patterns observed in the available data and should be validated further before business implementation.
