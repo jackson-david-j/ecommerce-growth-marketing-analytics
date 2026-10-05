@@ -51,3 +51,17 @@ Key dataset considerations:
 - Freight is not included in product sales.
 - Profitability cannot be determined because cost and margin data are not available.
 - Customer repeat behavior is measured only within the available observation period.
+
+## Tools & Technologies
+
+### Python
+Used for data cleaning, validation, missing-value checks, duplicate handling, and preparation of the cleaned datasets.
+
+### SQL
+Used to answer the seven business questions, calculate business metrics, validate results, and investigate customer, sales, delivery, geographic, and review patterns.
+
+### Power BI
+Used to build the data model, create DAX measures, design the interactive dashboard, and present business insights.
+
+### DAX
+Used to create validated KPI measures for sales, orders, delivery performance, customer behavior, and review analysis.
