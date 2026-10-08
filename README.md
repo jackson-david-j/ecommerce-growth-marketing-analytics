@@ -253,7 +253,9 @@ This dataset is used only for portfolio and learning purposes. The analysis shou
 
 ## Interactive Dashboard
 
-An interactive Power BI version of this dashboard will be added here after the final sharing method is selected and validated.
+The interactive Power BI report is available in the project `.pbix` file.
+
+A public Power BI Service link is not included at this stage because publishing requires a supported work or school account.
 
 ## Portfolio Note
 
