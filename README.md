@@ -239,7 +239,17 @@ This dataset is used only for portfolio and learning purposes. The analysis shou
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added here to showcase the final Power BI report design and key analytical pages.
+### Executive Overview
+
+![Executive Overview](images/executive_overview.png)
+
+### Sales & Geographic Analysis
+
+![Sales & Geographic Analysis](images/sales_geographic_analysis.png)
+
+### Delivery & Customer Experience
+
+![Delivery & Customer Experience](images/delivery_customer_experience.png)
 
 ## Interactive Dashboard
 
