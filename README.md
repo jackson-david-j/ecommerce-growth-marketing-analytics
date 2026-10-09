@@ -201,22 +201,18 @@ ecommerce-growth-marketing-analytics/
 │
 ├── README.md
 │
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_SQL_Analysis.ipynb
 │
-├── powerbi/
-│   └── Ecommerce_Growth_Marketing_Analytics_Final.pbix
-│
 ├── documentation/
-│   └── portfolio-case-study
+│   ├── Ecommerce_Growth_Marketing_Analytics_Report.pdf
+│   └── Ecommerce_Growth_Marketing_Analytics_Case_Study.docx
 │
 └── images/
-    └── dashboard-previews
+    ├── executive_overview.png
+    ├── sales_geographic_analysis.png
+    └── delivery_customer_experience.png
 ```
 
 ## Data Source
